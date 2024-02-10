@@ -1,0 +1,1 @@
+This is simple program to import, store and learn new shortcuts.
